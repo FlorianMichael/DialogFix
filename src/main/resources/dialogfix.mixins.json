@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "de.florianmichael.dialogfix.injection.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "MixinDialogScreen"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

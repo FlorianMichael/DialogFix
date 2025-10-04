@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "dialogfix",
+  "version": "${version}",
+  "name": "DialogFix",
+  "description": "${description}",
+  "authors": [
+    {
+      "name": "FlorianMichael/EnZaXD",
+      "contact": {
+        "email": "florian.michael07@gmail.com",
+        "homepage": "https://github.com/FlorianMichael"
+      }
+    }
+  ],
+  "contributors": [
+    {
+      "name": "GitHub contributors",
+      "contact": {
+        "homepage": "https://github.com/FlorianMichael/DialogFix/graphs/contributors"
+      }
+    }
+  ],
+  "contact": {
+    "homepage": "https://florianmichael.de/",
+    "sources": "https://github.com/FlorianMichael/DialogFix",
+    "issues": "https://github.com/FlorianMichael/DialogFix/issues",
+    "email": "florian.michael07@gmail.com"
+  },
+  "license": "GPL-v3",
+  "icon": "assets/dialogfix/icon.png",
+  "environment": "client",
+  "mixins": [
+    "dialogfix.mixins.json"
+  ],
+  "depends": {
+    "minecraft": "${mcVersion}",
+    "java": ">=21"
+  }
+}
