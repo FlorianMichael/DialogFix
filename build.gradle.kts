@@ -7,6 +7,7 @@ plugins {
 
 setupProject()
 setupFabric()
+setupPublishing()
 
 repositories {
     maven("https://maven.terraformersmc.com/releases")
