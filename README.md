@@ -11,8 +11,7 @@ Dev builds - https://build.florianmichael.de/job/DialogFix
 ## Use in Gradle
 
 To use DialogFix with Gradle you can
-use [the Maven Central repository](https://mvnrepository.com/artifact/de.florianmichael/DialogFix)
-or [my own repository](https://maven.florianmichael.de/#/releases/de/florianmichael/DialogFix).  
+use [my own repository](https://maven.florianmichael.de/#/releases/de/florianmichael/DialogFix).  
 You will find instructions on how to add it into your build script there.
 
 ## Contact
