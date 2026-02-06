@@ -1,6 +1,6 @@
 /*
- * This file is part of DialogFix - https://github.com/FlorianMichael/DialogFix
- * Copyright (C) 2025-2026 FlorianMichael/EnZaXD <git@florianmichael.de> and contributors
+ * This file is part of DialogFix - https://github.com/florianreuth/DialogFix
+ * Copyright (C) 2025-2026 Florian Reuth <git@florianreuth.de> and contributors
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -16,7 +16,7 @@
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
 
-package de.florianmichael.dialogfix.injection.mixin;
+package de.florianreuth.dialogfix.injection.mixin;
 
 import net.minecraft.client.gui.components.AbstractContainerWidget;
 import net.minecraft.client.gui.components.EditBox;

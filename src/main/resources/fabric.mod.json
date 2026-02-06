@@ -6,10 +6,10 @@
   "description": "${description}",
   "authors": [
     {
-      "name": "FlorianMichael/EnZaXD",
+      "name": "Florian Reuth (EnZaXD)",
       "contact": {
-        "email": "git@florianmichael.de",
-        "homepage": "https://github.com/FlorianMichael"
+        "email": "git@florianreuth.de",
+        "homepage": "https://github.com/florianreuth"
       }
     }
   ],
@@ -17,15 +17,15 @@
     {
       "name": "GitHub contributors",
       "contact": {
-        "homepage": "https://github.com/FlorianMichael/DialogFix/graphs/contributors"
+        "homepage": "https://github.com/florianreuth/DialogFix/graphs/contributors"
       }
     }
   ],
   "contact": {
-    "homepage": "https://florianmichael.de/",
-    "sources": "https://github.com/FlorianMichael/DialogFix",
-    "issues": "https://github.com/FlorianMichael/DialogFix/issues",
-    "email": "contact@florianmichael.de"
+    "homepage": "https://florianreuth.de/",
+    "sources": "https://github.com/florianreuth/DialogFix",
+    "issues": "https://github.com/florianreuth/DialogFix/issues",
+    "email": "florian@florianreuth.de"
   },
   "license": "GPL-v3",
   "icon": "assets/dialogfix/icon.png",
